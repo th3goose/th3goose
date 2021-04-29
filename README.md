@@ -12,6 +12,8 @@ https://engineering.fb.com/2019/03/14/data-center-engineering/f16-minipack/
 https://www.servethehome.com/facebook-minipack-100gbe-switch-edgecore-cumulus/
 https://www.arista.com/en/products/7368x4-series
 
+Feel free to reach out on linkedin anytime! https://www.linkedin.com/in/adamcooley/
+
 <!--
 **th3goose/th3goose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
