@@ -9,7 +9,10 @@ Here's some interesting posts talking about projects I've been involved in, mayb
 * https://engineering.fb.com/2015/02/11/production-engineering/introducing-6-pack-the-first-open-hardware-modular-switch/
 * https://engineering.fb.com/2016/11/08/data-center-engineering/introducing-backpack-our-second-generation-modular-open-switch/
 * https://engineering.fb.com/2019/03/14/data-center-engineering/f16-minipack/
+* https://engineering.fb.com/2014/06/18/data-center-engineering/introducing-wedge-and-fboss-the-next-steps-toward-a-disaggregated-network/
 * https://www.servethehome.com/facebook-minipack-100gbe-switch-edgecore-cumulus/
+* https://www.edge-core.com/productsInfo.php?cls=1&cls2=5&cls3=181&id=110
+* https://engineering.fb.com/2016/10/18/data-center-engineering/wedge-100-more-open-and-versatile-than-ever/
 * https://www.arista.com/en/products/7368x4-series
 
 Feel free to reach out on linkedin anytime! https://www.linkedin.com/in/adamcooley/
